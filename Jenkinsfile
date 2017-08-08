@@ -1,1 +1,3 @@
-pollSCM
+node {
+  checkout scm
+}
